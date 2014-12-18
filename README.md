@@ -1,4 +1,0 @@
-FlappyBird
-==========
-
-FlappyBird Game Web
